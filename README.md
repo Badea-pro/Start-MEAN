@@ -1,6 +1,6 @@
 MEAN stack Login page
 
-This project has been created by Badea khalboos
+This project has been created by 3mk
 
 To start the app
 
